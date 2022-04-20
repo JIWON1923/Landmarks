@@ -5,12 +5,12 @@
 # Creating and Combinding Views
 
 ## :fireworks: Screenshots
-<alt="MapView" src="https://user-images.githubusercontent.com/68676844/164131805-544aa444-e5b4-44fd-87ec-fd7b3afd15ae.png" width="250" height="500">
-<alt="Custom ImageView" src="https://user-images.githubusercontent.com/68676844/164131808-fae3ea59-396e-4464-9411-4e3b004ab708.png" width="250" height="500">
-<alt="Combining Views" src="https://user-images.githubusercontent.com/68676844/164131810-9837d557-a8e2-4b05-a9d7-e343254e4a4c.png" width="250" height="500">
+<img alt="MapView" src="https://user-images.githubusercontent.com/68676844/164131805-544aa444-e5b4-44fd-87ec-fd7b3afd15ae.png" width="250" height="500">
+<img alt="Custom ImageView" src="https://user-images.githubusercontent.com/68676844/164131808-fae3ea59-396e-4464-9411-4e3b004ab708.png" width="250" height="500">
+<img alt="Combining Views" src="https://user-images.githubusercontent.com/68676844/164131810-9837d557-a8e2-4b05-a9d7-e343254e4a4c.png" width="250" height="500">
 
 
-## :sparkles:
+## :sparkles: Important concepts
 
 **struct**
 - SwiftUI의 struct는 앱의 생명주기를 준수하는 구조로 되어있다. 
