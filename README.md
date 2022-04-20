@@ -5,10 +5,9 @@
 # Creating and Combinding Views
 
 ## :fireworks: Screenshots
-<img alt="MapView" src="https://user-images.githubusercontent.com/68676844/164131805-544aa444-e5b4-44fd-87ec-fd7b3afd15ae.png" width="250" height="500">
-<img alt="Custom ImageView" src="https://user-images.githubusercontent.com/68676844/164131808-fae3ea59-396e-4464-9411-4e3b004ab708.png" width="250" height="500">
-<img alt="Combining Views" src="https://user-images.githubusercontent.com/68676844/164131810-9837d557-a8e2-4b05-a9d7-e343254e4a4c.png" width="250" height="500">
-
+![MapView](https://user-images.githubusercontent.com/68676844/164131805-544aa444-e5b4-44fd-87ec-fd7b3afd15ae.png)
+![ImageView](https://user-images.githubusercontent.com/68676844/164131808-fae3ea59-396e-4464-9411-4e3b004ab708.png)
+![Combinding](https://user-images.githubusercontent.com/68676844/164131810-9837d557-a8e2-4b05-a9d7-e343254e4a4c.png)
 
 ## :sparkles: Important concepts
 
